@@ -1,0 +1,1 @@
+zcc +zx -lndos -create-app modoRadastan.c main.c

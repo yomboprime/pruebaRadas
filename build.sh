@@ -1,0 +1,2 @@
+./compilar.sh
+./crearwavnormal.sh
